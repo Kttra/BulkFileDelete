@@ -1,6 +1,6 @@
 # Bulk File Deleter
 
-This program is designed to delete files from a specified directory. It can be run from the command line and accepts a number of options to customize its behavior.
+This program is designed to delete files based on file type or name from a specified directory.
 
 ## Quick Rundown
 
