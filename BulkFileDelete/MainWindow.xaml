@@ -6,7 +6,7 @@
         xmlns:local="clr-namespace:BulkFileDelete"
         Background="Black"
         mc:Ignorable="d" ResizeMode="CanMinimize" WindowStartupLocation="CenterScreen"
-        Title="MainWindow" Height="150" Width="350">
+        Title="File Deleter" Height="150" Width="350">
     <Grid>
         <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center" Margin="10">
             <StackPanel Orientation="Horizontal" Margin="0,0,0,10">
